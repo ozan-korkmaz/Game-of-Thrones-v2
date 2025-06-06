@@ -1,0 +1,13 @@
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.Properties.Resources.resources
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\bin\Debug\TinyHouse.exe.config
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\bin\Debug\TinyHouse.exe
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\bin\Debug\TinyHouse.pdb
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.exe
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.pdb
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.exe.config
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.Login.resources
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.SifremiUnuttum.resources
+C:\Users\Monster\Desktop\udemy_forms_dersleri\TinyHouse\TinyHouse\obj\Debug\TinyHouse.UyeOl.resources

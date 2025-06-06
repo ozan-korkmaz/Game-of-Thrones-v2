@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|c:\\users\\monster\\desktop\\udemy_forms_dersleri\\tinyhouse\\tinyhouse\\kiracianasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|solutionrelative:tinyhouse\\kiracianasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|c:\\users\\monster\\desktop\\udemy_forms_dersleri\\tinyhouse\\tinyhouse\\evsahibianasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|solutionrelative:tinyhouse\\evsahibianasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|c:\\users\\monster\\desktop\\udemy_forms_dersleri\\tinyhouse\\tinyhouse\\adminanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|solutionrelative:tinyhouse\\adminanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|c:\\users\\monster\\desktop\\udemy_forms_dersleri\\tinyhouse\\tinyhouse\\uyeol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|solutionrelative:tinyhouse\\uyeol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|c:\\users\\monster\\desktop\\udemy_forms_dersleri\\tinyhouse\\tinyhouse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|solutionrelative:tinyhouse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|c:\\users\\monster\\desktop\\udemy_forms_dersleri\\tinyhouse\\tinyhouse\\sifremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|solutionrelative:tinyhouse\\sifremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|c:\\users\\monster\\desktop\\udemy_forms_dersleri\\tinyhouse\\tinyhouse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F140732-E11D-4AC3-8D8D-F2E5B74A6B1B}|TinyHouse\\TinyHouse.csproj|solutionrelative:tinyhouse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KiraciAnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\KiraciAnaSayfa.cs",
+              "RelativeDocumentMoniker": "TinyHouse\\KiraciAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\KiraciAnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TinyHouse\\KiraciAnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:04:55.254Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvSahibiAnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\EvSahibiAnaSayfa.cs",
+              "RelativeDocumentMoniker": "TinyHouse\\EvSahibiAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\EvSahibiAnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TinyHouse\\EvSahibiAnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:04:54.504Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminAnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\AdminAnaSayfa.cs",
+              "RelativeDocumentMoniker": "TinyHouse\\AdminAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\AdminAnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TinyHouse\\AdminAnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:04:53.053Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\Login.cs",
+              "RelativeDocumentMoniker": "TinyHouse\\Login.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\Login.cs",
+              "RelativeToolTip": "TinyHouse\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:04:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SifremiUnuttum.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\SifremiUnuttum.cs",
+              "RelativeDocumentMoniker": "TinyHouse\\SifremiUnuttum.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\SifremiUnuttum.cs",
+              "RelativeToolTip": "TinyHouse\\SifremiUnuttum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:00:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UyeOl.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\UyeOl.cs",
+              "RelativeDocumentMoniker": "TinyHouse\\UyeOl.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\UyeOl.cs",
+              "RelativeToolTip": "TinyHouse\\UyeOl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:00:34.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\Login.cs",
+              "RelativeDocumentMoniker": "TinyHouse\\Login.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\udemy_forms_dersleri\\TinyHouse\\TinyHouse\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TinyHouse\\Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:44:30.851Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
